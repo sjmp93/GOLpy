@@ -24,3 +24,6 @@ The game area has a torus topology, so up and down, and left and right are conne
 
 <img src="https://user-images.githubusercontent.com/13170751/80437115-12b44c80-8901-11ea-9c2f-e6677c05ecb0.png" width="90%"></img> 
 
+
+Thanks to DotCSV for [the tutorial.](https://www.youtube.com/watch?v=qPtKv9fSHZY
+).
