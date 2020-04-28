@@ -7,6 +7,7 @@ width, height = 1000, 1000
 
 #Game area creation
 screen = pygame.display.set_mode((height, width))
+pygame.display.set_caption('pyGOL')
 
 #Setup background color
 bg = 25, 25, 25
