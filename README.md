@@ -1,4 +1,4 @@
-# GOLpy
+# pyGOL
 Implementation of Conway's Game Of Life in Python, using numpy and pygame
 
 pygame and numpy libraries needed, so you have to execute this command (assuming that you have python3 and pip3 installed on your machine):
