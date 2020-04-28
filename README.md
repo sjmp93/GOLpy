@@ -13,8 +13,9 @@ sudo apt-get install python3-pygame
 ```
 
 To execute the game, use this command, where $path will be the directory where conway.py is stored:
+```
 python3 $path/conway.py
-
+```
 Game Instructions:
 
 Left click in a cell to get that cell alive.
